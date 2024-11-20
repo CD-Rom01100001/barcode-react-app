@@ -1,0 +1,9 @@
+.wrap-textarea {
+  display: flex;
+  justify-content: center;
+}
+
+.textarea {
+  padding: 20px;
+  text-align: center;
+}
