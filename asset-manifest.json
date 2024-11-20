@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/barcode-react-app/static/css/main.4b77538d.css",
+    "main.js": "/barcode-react-app/static/js/main.c5805ef4.js",
+    "index.html": "/barcode-react-app/index.html",
+    "main.4b77538d.css.map": "/barcode-react-app/static/css/main.4b77538d.css.map",
+    "main.c5805ef4.js.map": "/barcode-react-app/static/js/main.c5805ef4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b77538d.css",
+    "static/js/main.c5805ef4.js"
+  ]
+}
